@@ -1,7 +1,7 @@
 
 **Data-Driven Problem Solver | Business Analytics Enthusiast | Turning Insights into Action**
 
-Welcome to my GitHub portfolio! I hold a Master’s in Commerce, an MBA, and a Master’s in Business Analytics, equipping me with a unique blend of business acumen and advanced analytical skills. My passion lies in leveraging data analytics and business intelligence to solve complex problems across industries and drive impactful decision-making.
+Welcome to my GitHub portfolio! I hold a Master’s in Commerce, an MBA, and a Master’s + PG in Data Science & Business Analytics, equipping me with a unique blend of business acumen and advanced analytical skills. My passion lies in leveraging data analytics and business intelligence to solve complex problems across industries and drive impactful decision-making.
 
 Here, you’ll find projects where I:
 - **Transform raw data into actionable insights** using tools like Python, R, SQL, Tableau, and Power BI.
